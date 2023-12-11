@@ -1,3 +1,5 @@
+# 메인 프로그램
+
 from tkinter import *
 import tkinter.messagebox
 from PIL import Image, ImageTk
