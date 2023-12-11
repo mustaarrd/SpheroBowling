@@ -1,3 +1,5 @@
+# 스피로 자바스크립트에 작성된 애니메이션을 변환하기 위한 코드
+
 from spherov2.types import Color
 
 class Animaition:
