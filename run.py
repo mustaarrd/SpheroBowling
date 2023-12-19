@@ -214,7 +214,7 @@ def on_cls1(api):
             elif round == 2:
                 turn = names[2]
                 api.scroll_matrix_text(text="GameOver", color=Color(255,51,51), fps=15, wait=True)
-                balls[21].set_main_led(Color(0,255,0))
+                balls[2].set_main_led(Color(0,255,0))
             mode = 0 
     lock = False
 
